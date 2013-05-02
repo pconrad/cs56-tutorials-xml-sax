@@ -3,6 +3,11 @@ cs56-tutorials-xml-sax
 
 A simple demo of using SAX and DOM
 
+Original source: https://docs.google.com/document/pub?id=1Weyus5l1ep4X0PLAiDR3qf59D8UWmH7_WcCm_MhGEqM
+
+TODO: Fix up the Github Flavored Markdown below to reflect their original formatting better. 
+
+
 Shayan Yassami & Tong Wu
 How To Use SAX XML Parsing in Java
 
